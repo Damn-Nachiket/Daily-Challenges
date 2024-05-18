@@ -1,3 +1,4 @@
+#day-1 - python
 def longest_substring(s: str) -> int:
     char_index_map = {}
     left = 0
